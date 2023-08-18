@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>System Admin Projects</b>
-  - [Home Lab Setup with Active Directory](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Home Lab Setup with Active Directory](https://github.com/l-g-sosa/ActiveDirectoryLab/tree/main)
 
 <h2>📺 Cybersecurity Projects</h2>
 
