@@ -5,9 +5,9 @@
 - <b>System Admin Projects</b>
   - [Home Lab Setup with Active Directory](https://github.com/l-g-sosa/ActiveDirectoryLab/tree/main)
 
-<h2>📺 Cybersecurity Projects</h2>
+- Cybersecurity Projects</h2>
 
-- [SOC Analyst Environment w/ LimaCharlie and Sliver](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [SOC Analyst Environment w/ LimaCharlie and Sliver](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect with me:</h2>
 
