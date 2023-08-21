@@ -7,7 +7,7 @@
 
 - Cybersecurity Projects</h2>
 
-  - [SOC Analyst Environment w/ LimaCharlie and Sliver](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [Vulnerability Scanning and remediating using Nessus](https://github.com/l-g-sosa/NessusLab/))
 
 <h2> 🤳 Connect with me:</h2>
 
