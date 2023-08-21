@@ -7,7 +7,7 @@
 
 - Cybersecurity Projects</h2>
 
-  - [Vulnerability Scanning and remediating using Nessus](https://github.com/l-g-sosa/NessusLab/)
+  - [Vulnerability Scanning and Remediation Using Nessus](https://github.com/l-g-sosa/NessusLab/)
 
 <h2> 🤳 Connect with me:</h2>
 
