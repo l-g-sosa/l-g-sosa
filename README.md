@@ -8,6 +8,7 @@
 - Cybersecurity Projects</h2>
 
   - [Vulnerability Scanning and Remediation Using Nessus](https://github.com/l-g-sosa/NessusLab/)
+  - [Azure Cloud Detection Lab using MITRE ATT&CK Framework](https://github.com/l-g-sosa/AzureCloudDetection/)
 
 <h2> 🤳 Connect with me:</h2>
 
